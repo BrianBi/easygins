@@ -1,0 +1,7 @@
+name: ginframe
+db:
+  name: lbspay_db
+  host: 127.0.0.1:3306
+  username: root
+  password: 12345abc
+  charset: utf8mb4
